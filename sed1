@@ -1,0 +1,3 @@
+# https://www.hackerrank.com/challenges/text-processing-in-linux-the-sed-command-1
+cat sed_input1.txt | sed 's/ the / this /'
+
